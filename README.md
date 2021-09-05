@@ -1,2 +1,6 @@
 # poipoi-fbcloner
-Without Login cloning Tool🔥
+##Without Login cloning Tool🔥
+
+```
+apt update && upgrade
+```
